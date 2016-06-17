@@ -1431,6 +1431,7 @@ ul.bar-styling li.pinterest > a:hover {
 .tp-caption a.btn.v-btn {
     /*font-size: 12px;*/
     margin-right: 0;
+	font-family: 'source_sans_probold'; 
 }
 
 .flex-direction-nav .disabled {
