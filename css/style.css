@@ -2216,7 +2216,7 @@ h4.v-line-heading:before {
     font-size: 38px;
     line-height: 48px;
     letter-spacing: inherit;
-    font-family: MuseoSlab500Regular;
+    font-family: 'Open Sans';
 }
 
 .v-fancy-heading.v-fancy-image.light-style h1,
